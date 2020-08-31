@@ -1,10 +1,11 @@
 #wrapper{
     font-size: 25px;
     font-family: "黑体";
-    font-weight: bold;
+    text-align: center;
 }
 
 #m2{
     display: block;
+    text-align: center;
 }
 

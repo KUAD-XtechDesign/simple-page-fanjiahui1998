@@ -2,11 +2,13 @@
     background-image: url(./11.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
+    text-align: center;
 }
 
 #m1{
     background-color: rgba(194, 191, 164, 0.329);
     font-size: 30px;
     margin-top:150px;
+    text-align: center;
 }
 
