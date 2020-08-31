@@ -1,0 +1,14 @@
+#header
+ {
+  background-image: url(./11.jpeg);
+  background-position: 50% 50%;
+  background-repeat: repeat-x;
+  background-position: center;
+ }
+
+#main
+ {
+  background-color: lightsteelblue;
+  padding:40px;   
+ }
+

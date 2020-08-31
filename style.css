@@ -6,6 +6,9 @@ body{
   line-height: 1.8;
 }
 
+.practice_page{
+ background-color: rebeccapurple;
+}
 img{
   max-width: 100%;
   height: auto;
@@ -32,6 +35,7 @@ img.frame{
   padding-bottom: 10px;
   font-size: 1.2em;
   border-bottom: 1px solid #ddd;
+  color: #ff0000;
 }
 
 .btns{
