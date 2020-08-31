@@ -1,13 +1,11 @@
-#index_page
- {
+#wrapper{
   background-image: url(./11.jpeg);
-  background-position: 50% 50%;
+  
   background-repeat: repeat-x;
-  background-position: center;
+  background-size:cover;
  }
 
-#main
- {
+#main{
   background-color: lightsteelblue;
   padding:40px;   
  }
