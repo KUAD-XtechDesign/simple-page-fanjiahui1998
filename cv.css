@@ -1,9 +1,11 @@
 #wrapper1{
      text-align: center;
-     background-color: rgba(241, 176, 12, 0.582);  
+     background-color: rgba(241, 176, 12, 0.192); 
+     background-size: cover; 
 }
 
 #m3{
     text-align: center;
-    background-color: rgba(136, 219, 247, 0.685);
+    background-color: rgba(217, 242, 250, 0.363);
+    background-size: cover;
 }
