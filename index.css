@@ -1,15 +1,13 @@
 #wrapper{
     background-image: url(./11.jpeg);
     background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    -ms-background-size: cover;
-    min-height:650px;
-	position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }
 
-#main{
-    background-color: lightsteelblue; 
+#period{
+    background-color: lightsteelblue;
+    font-size: 20px;
 }
 
