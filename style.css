@@ -1,55 +1,20 @@
 body{
-  font-family: "Helvetica Neue",Arial,"Hiragino Kaku Gothic ProN","Hiragino Sans",Meiryo,sans-serif;
-  margin: 0;
-  padding: 20px;
-  background-color: #ddd;
-  line-height: 1.8;
-}
-
-.practice_page{
- background-color: rebeccapurple;
-}
-img{
-  max-width: 100%;
-  height: auto;
-}
-
-img.frame{
-  border: 1px solid #ccc;
-}
-
-#container{
-  max-width: 600px;
-  margin: 30px auto;
-}
-
-.info{
-  background-color: #fff;
-  padding: 20px;
-  margin-bottom: 10px;
-  border-radius: 5px;
-}
-
-.name{
-  margin-bottom: 10px;
-  padding-bottom: 10px;
-  font-size: 1.2em;
-  border-bottom: 1px solid #ddd;
-  color: #ff0000;
-}
-
-.btns{
-  display: flex;
-}
-
-.btns .btn{
-  color: #666;
-}
-
-.btns .next{
-  margin-left: auto;
-}
-
-.btns .prev{
-  margin-right: auto;
-}
+    background-color:rgb(0, 0, 0);
+    /* background-image: url(../images/back.png);
+    background-repeat: repeat;
+    background-size: 60px 60px; */
+    font-size: large;
+    font-style: oblique;
+    
+  }
+  
+  .hear{
+    width: 1200px;
+    background-color: rgb(252, 243, 232);
+    margin: 80px auto;
+    text-align: center;
+  }
+  
+  img{
+    max-width: 100%;
+  }
